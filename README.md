@@ -1,4 +1,4 @@
-# Exam #1: "StuffHappens"
+# StuffHappens
 
 ## React Client Application Routes
 

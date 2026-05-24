@@ -254,5 +254,4 @@ When authenticated, the user can also view game history, start a full game, and 
 
 ## Users Credentials
 
-- `admin@polito.it`, `password`
-- `admin2@polito.it`, `password`
+Demo credentials available on request

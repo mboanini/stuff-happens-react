@@ -1,0 +1,13 @@
+.background-blur {
+  position: fixed;         
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../assets/homePage.png'); 
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+  opacity: 0.4;
+  z-index: -1;             
+}
